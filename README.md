@@ -26,9 +26,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Files 
 
-* [Gen_nextText.ipynb] - Notebook for poems generation , training on google colab
-* [Scraping.ipyng]- Notebook for the scraping of asfiyahi's texts in order to constitute the corpus for training
-* [app.py]- the application running on streamlit
+* Gen_nextText.ipynb - Notebook for poems generation , training on google colab
+* Scraping.ipyng- Notebook for the scraping of asfiyahi's texts in order to constitute the corpus for training
+* app.py- the application running on streamlit
 
   
 
