@@ -22,7 +22,6 @@ To launch the project, place  in the folder and launch the command below
 streamlit run app.py
 ```
 
-Add additional notes about how to deploy this on a live system
 
 ## Files 
 
