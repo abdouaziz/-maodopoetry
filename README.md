@@ -8,6 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
+Train the model for large epochs (eg 100) and save it as the name "my_model.h5"  in the folder
+
 install streamlit by typing this code below 
 
 ```
